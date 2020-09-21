@@ -1,7 +1,13 @@
 <?php
-/**
- * Created by Agababaev Dmitry
- */
+// ------------------------------------------------------------------------------
+//  © Copyright (с) 2020
+//  Author: Dmitri Agababaev, d.agababaev@duncat.net
+//
+//  Redistributions and use of source code, with or without modification, are
+//  permitted that retain the above copyright notice
+//
+//  License: MIT
+// ------------------------------------------------------------------------------
 
 class MikroTikSSH_SMS_send
 {
